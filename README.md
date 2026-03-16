@@ -4,7 +4,7 @@ Développeuse Web
 
 Je suis actuellement en fin de formation développeuse web et lors de ma formation, j'ai pu réaliser des projets en JavaScript, React et Node.js.
 
-🌐 Portfolio : https://Biou007.github.io/portfolio  
+🌐 Portfolio : [https://biou007.github.io/Projet-8 ]
 📫 Contact : kantoniaina@hotmail.com
 
 ---
